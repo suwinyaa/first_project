@@ -2,4 +2,3 @@
 age : 21
 
 62102405 Sulhan Samoh
-age : 21
